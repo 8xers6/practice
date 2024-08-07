@@ -14,7 +14,7 @@
                         <input type="text" name="username" placeholder="Username">
                         <input type="password" name="pwd" placeholder="Password">
                         <input type="text" name="email" placeholder="E-Mail">
-                        <button>Signup</button>
+                        <button>Sign-up</button>
                     </form>
             </main>
 </body>
